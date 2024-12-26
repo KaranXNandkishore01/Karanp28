@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **The_bug_miner**
 
-- 🌱 I’m currently learning **Python,Machine learning and some latest AI tools to accelerate my professional work.**
+- 🌱 I’m currently learning **Python, Machine learning and some of the latest AI tools to accelerate my professional work.**
 
 - 👯 I’m looking to collaborate on **The_bug_miner**
 
@@ -18,6 +18,7 @@
 - 💬 Ask me about **HTML, C++,Excel**
 
 - 📫 How to reach me **karanpraja6@gmail.com**
+- Feel free to contact me anytime, I will definitely try to reach you!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
